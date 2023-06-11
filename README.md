@@ -3,6 +3,6 @@ This is a barebones text adventure game that I can use as a starting template fo
 
 I used these books in this project:
 
-Dennis Merrit, Adventure in Prolog, New York: Springer-Verlag, 1990.
+* W.F. Clocksin and C.S. Mellish, _Programming in Prolog_, New York: Springer-Verlag, 1981.
 
-W.F. Clocksin and C.S. Mellish, Programming in Prolog, New York: Springer-Verlag, 1981.
+* Dennis Merrit, _Adventure in Prolog_, New York: Springer-Verlag, 1990.
