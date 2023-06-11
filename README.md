@@ -1,6 +1,8 @@
 # minimalescape
 This is a barebones text adventure game that you can use as a starting template for actual games. You can move around, pick up stuff, drop it (also in containers), look around, punch stuff and -- hopefully -- manage to use the escapepod. The game has a natural language parser to fetch the commands from the user, so you typically write stuff like "go to the cockpit" to play. As this is just barebones, the vocabulary needs to be expanded -- there aren't any alternative verbs etc.
 
+To try out the game, clone the project and move into its directory, start swipl (`swipl`), load the game from the Prolog top-level (`[minimal].`) and then type `start_game.`.
+
 I used these books in this project:
 
 * W.F. Clocksin and C.S. Mellish, _Programming in Prolog_, New York: Springer-Verlag, 1981.
