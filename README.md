@@ -7,4 +7,4 @@ I used these books in this project:
 
 * Dennis Merrit, _Adventure in Prolog_, New York: Springer-Verlag, 1990.
 
-The code doesn't use Definite Clause Grammar, because I wanted everything laid bare. For a real game, switching is probably a good idea.
+The code doesn't use Definite Clause Grammar, because I wanted everything laid bare in the template. For a real game, switching is probably a good idea.
